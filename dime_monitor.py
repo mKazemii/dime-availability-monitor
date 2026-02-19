@@ -19,7 +19,7 @@ STATE_FILE = "dime_state.json"
 LOG_FILE = "dime_monitor.log"
 
 # چند روز آینده را چک کند
-DAYS_AHEAD = 150  # 5 ماه
+DAYS_AHEAD = 60  # 2 ماه
 
 # هر اجرا کمی تصادفی تا ربات‌گونه نباشه (مثلاً 0 تا 40 ثانیه)
 START_JITTER_SECONDS = 30
@@ -377,5 +377,6 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
 
 
