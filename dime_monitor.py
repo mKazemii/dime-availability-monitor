@@ -22,7 +22,7 @@ LOG_FILE = "dime_monitor.log"
 DAYS_AHEAD = 60  # 2 ماه
 
 # هر اجرا کمی تصادفی تا ربات‌گونه نباشه (مثلاً 0 تا 40 ثانیه)
-START_JITTER_SECONDS = 30
+START_JITTER_SECONDS = 2
 
 # Retry
 MAX_RETRIES = 3
@@ -377,6 +377,7 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
 
 
 
