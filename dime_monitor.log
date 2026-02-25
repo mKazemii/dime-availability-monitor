@@ -484,3 +484,5 @@
 2026-02-25 20:40:32,248 | INFO | No availability 😕
 2026-02-25 21:05:52,452 | INFO | Start jitter: sleeping 1.8s
 2026-02-25 21:05:55,946 | INFO | No availability 😕
+2026-02-25 21:46:52,393 | INFO | Start jitter: sleeping 0.3s
+2026-02-25 21:46:55,657 | INFO | Notified 🔔 new=1
