@@ -952,3 +952,5 @@
 2026-03-03 12:01:09,000 | INFO | Notified 🔔 new=1
 2026-03-03 13:10:23,752 | INFO | Start jitter: sleeping 0.5s
 2026-03-03 13:10:26,558 | INFO | No availability 😕
+2026-03-03 14:04:39,952 | INFO | Start jitter: sleeping 1.1s
+2026-03-03 14:04:43,315 | INFO | No availability 😕
