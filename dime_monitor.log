@@ -1046,3 +1046,5 @@
 2026-03-04 20:50:24,717 | INFO | Notified 🔔 new=1
 2026-03-04 21:19:11,777 | INFO | Start jitter: sleeping 1.0s
 2026-03-04 21:19:14,556 | INFO | Availability exists but nothing new ✅
+2026-03-04 21:51:00,388 | INFO | Start jitter: sleeping 1.0s
+2026-03-04 21:51:02,767 | INFO | Availability exists but nothing new ✅
