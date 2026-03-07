@@ -1224,3 +1224,5 @@
 2026-03-07 11:17:44,100 | INFO | Notified 🔔 new=1
 2026-03-07 11:34:33,824 | INFO | Start jitter: sleeping 0.3s
 2026-03-07 11:34:36,158 | INFO | No availability 😕
+2026-03-07 11:47:36,856 | INFO | Start jitter: sleeping 1.4s
+2026-03-07 11:47:40,100 | INFO | No availability 😕
