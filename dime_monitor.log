@@ -1300,3 +1300,5 @@
 2026-03-07 23:35:38,210 | INFO | Availability exists but nothing new ✅
 2026-03-07 23:49:54,898 | INFO | Start jitter: sleeping 0.2s
 2026-03-07 23:49:58,226 | INFO | No availability 😕
+2026-03-07 23:58:23,761 | INFO | Start jitter: sleeping 0.1s
+2026-03-07 23:58:25,203 | INFO | No availability 😕
